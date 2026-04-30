@@ -14,7 +14,7 @@ Clone the repo and save it to your local disk. Where? It doesn't really matter, 
 
 Here's how to clone and get the working directory location 
 ```
-$ git clone <github repo>
+$ git clone git@github.com:jpavioli/Meta-Ad-Insights.git
 $ cd Meta-Ads-Insights
 $ pwd
 ```
