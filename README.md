@@ -20,6 +20,7 @@ $ pwd
 ```
 While there, you may as well build the server using the following command
 ```
+$ npm install
 $ npm run build
 ```
 which will create a build version of the server for Claude to access. 
